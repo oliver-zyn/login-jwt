@@ -16,7 +16,7 @@ Para usar essa api, primeiramente é necessário instalar alguns módulos:
 Além disso, é necessário criar um arquivo .env (no mesmo diretório do app.js) e configurar as seguintes variáveis ambiente:
 
 - PORT = <porta em que o servidor irá rodar>
-- MONGO_CONNECTION_URL = <link do seu database mongodb>
+- MONGO_CONNECTION_URL = <o link do seu database mongodb>
 - TOKEN_SECRET = <chave secreta para a geração do token>
 
 Após isso, execute um "npm start" e seu projeto estará rodando!
